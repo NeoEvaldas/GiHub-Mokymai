@@ -9,7 +9,7 @@ namespace ConsoleApp1
         {
             List<string> Sarasas = new List<string>();
 
-            forasssfor (int i = 0; i < Sarasas.Count; i++)
+            for (int i = 0; i < Sarasas.Count; i++)
             {
                 Console.WriteLine(Sarasas[i]);
 
